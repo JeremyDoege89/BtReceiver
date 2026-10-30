@@ -13,8 +13,8 @@ android {
         applicationId = "dev.dreamz.btreceiver"
         minSdk = 30
         targetSdk = 36
-        versionCode = 5
-        versionName = "0.3.0"
+        versionCode = 6
+        versionName = "0.4.0"
     }
 
     // Local, git-ignored keystore.properties: storeFile / storePassword / keyAlias / keyPassword.
